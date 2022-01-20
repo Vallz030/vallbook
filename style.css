@@ -1,0 +1,50 @@
+a,p,h1,h2,h3,h4,h5{
+	color: green;
+	font-family: Arial;
+}
+
+
+body{
+	background-color: #050505;
+	margin: 5px;
+}
+
+header{
+	background-color: #050505;
+	width: 100%;
+}
+
+
+#div_left{
+	background-color: ;
+	height: 1000px ;
+	width: 60%;
+	float: left;
+}
+#div_right{
+	background-color: ;
+	height: 1000px;
+	width: 40%;
+	float: right;
+}
+
+footer{
+	clear: both;
+	background-color: ;
+	height: 30px;
+	width: 100%%;
+}
+
+.container{
+	width: 1500px;
+	margin: auto;
+}
+
+hr{
+	color: green;s
+}
+
+#gif{
+	float: right;
+	height: 1px;
+}
